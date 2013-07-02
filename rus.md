@@ -11,15 +11,27 @@
 как `<header>`, `<article>` или `<footer>`, но нет элемента, который бы
 содержал основное наполнение страницы.
 
-[Стив Фолкнер][1] (Steve Faulkner), консультант по вопросам доступности и
-один из редакторов проекта html5 doctor, потрудился собрать данные, юзкейсы и
-пообщаться с людьми, что бы заинтересовать их в имплементации. По словам Стива,
-он общался:
+[Steve Faulkner][1], an accessibility consultant and new doctor in residence,
+undertook the hard graft of carrying out research, gathering data and use
+cases, and speaking to implementers to get them interested. As Steve explains,
+he talked to:
 
-> со всеми, кто занимается его имплементацией (и общей, и с учетом доступности
-> материалов), разработчиками, авторами, пользователями, которыми смог и получил
-> их советы и отзывы. Я искал их в самых разных местах; в IRC, почтовых
-> рассылках, твитере, блогах, конференциях — везде.
+[Стив Фолкнер][1] (Steve Faulkner), консультант по вопросам доступности материалов и
+один из редакторов проекта html5 doctor, потрудился собрать данные, примеры
+использования и пообщаться с разработчиками. По словам Стива,
+он говорил:
+
+> as many implementers (both general browser implementers and accessibility
+> implementers), developers, authors and users as I could and got advice and
+> input from them. I went where the various people hung out; on IRC, mailing
+> lists, twitter, blogs, conferences — anywhere.
+> [Steve Faulkner][1]
+
+> со всеми, кто связан с его имплементацией в браузеры, специалистами по
+> вопросам доступности материалов, разработчиками веб-страниц, авторами и
+> пользователями, которыми смог найти и получил их советы и отзывы. Я искал их
+> в самых разных местах: в IRC, почтовых рассылках, твитере, блогах,
+> конференциях — везде.
 
 > *[Стив Фолкнер][1]*
 
