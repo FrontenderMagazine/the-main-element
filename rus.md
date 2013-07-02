@@ -164,14 +164,14 @@ ARIA.*
 
 ## Материалы для дальнейшего чтения
 
-* [Sitepoint — Элемент `main` HTML5][14]
-* [MDN — `main`][15]
-* [Ян Делвин (Ian Devlin) — элемент `main`][16]
-* [Брюс Лоусон (Bruce Lawson) — Использование элемента `main`][17]
-* [Filament Group — элемент `main`][18]
-* [W3C — Примеры использования элемента `main`][19]
-* [Web Monkey — элемент `main` получает главную роль в html][20]
-* [Web Monkey — элемент `main` поможет html перейти к сути][21]
+* [Sitepoint — Элемент main HTML5][14]
+* [MDN — main][15]
+* [Ян Делвин (Ian Devlin) — элемент main][16]
+* [Брюс Лоусон (Bruce Lawson) — Использование элемента main][17]
+* [Filament Group — элемент main][18]
+* [W3C — Примеры использования элемента main][19]
+* [Web Monkey — элемент main получает главную роль в html][20]
+* [Web Monkey — элемент main поможет html перейти к сути][21]
 
 [1]: http://html5doctor.com/interview-steve-faulkner-html5-editor-new-doctor/
 [2]: https://dvcs.w3.org/hg/html-extensions/raw-file/tip/maincontent/index.html
